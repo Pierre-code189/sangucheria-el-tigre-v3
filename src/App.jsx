@@ -4,14 +4,14 @@ import { ShoppingBag, MessageCircle, Star, MapPin, Clock, ShieldCheck, Zap, X, T
 export default function App() {
   const products = [
   {
-    "precio": 18,
-    "descripcion": "Delicioso chicharrón crujiente a la leña con camote frito y salsa criolla.",
+    "descripcion": "Chicharrón crujiente a la leña con camote frito y salsa criolla en pan artesanal.",
     "nombre": "Sánguche de Chicharrón",
+    "precio": 18,
     "imagenUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af"
   },
   {
+    "descripcion": "Pavo horneado a la leña servido con salsa criolla y cremas en pan fresco.",
     "precio": 16,
-    "descripcion": "Jugoso pavo horneado a la leña servido en pan artesanal con salsa criolla.",
     "nombre": "Sánguche de Pavo",
     "imagenUrl": "https://images.unsplash.com/photo-1509722747041-616f39b57569"
   }
